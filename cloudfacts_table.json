@@ -1,0 +1,20 @@
+{ "FactID": "1", "FactText": "AWS S3 was one of the very first AWS services, launched in 2006." }
+{ "FactID": "2", "FactText": "Netflix runs almost all of its infrastructure on AWS." }
+{ "FactID": "3", "FactText": "Cloud computing can save companies up to 30% on IT costs." }
+{ "FactID": "4", "FactText": "NASA uses AWS to store and share Mars mission data with the public." }
+{ "FactID": "5", "FactText": "AWS has more than 200 fully featured services today." }
+{ "FactID": "6", "FactText": "The 'cloud' doesn’t float in the sky, it’s made of giant data centers on Earth." }
+{ "FactID": "7", "FactText": "More than 90% of Fortune 100 companies use AWS." }
+{ "FactID": "8", "FactText": "AWS data centers are so secure that they require retina scans and 24/7 guards." }
+{ "FactID": "9", "FactText": "Serverless doesn’t mean there are no servers, it just means you don’t manage them." }
+{ "FactID": "10", "FactText": "Each AWS Availability Zone has at least one independent power source and cooling system." }
+{ "FactID": "11", "FactText": "Amazon once accidentally took down parts of the internet when S3 had an outage in 2017." }
+{ "FactID": "12", "FactText": "The fastest-growing AWS service is Amazon SageMaker, used for Machine Learning." }
+{ "FactID": "13", "FactText": "The word 'cloud' became popular in the 1990s as a metaphor for the internet." }
+{ "FactID": "14", "FactText": "AWS Lambda can automatically scale from zero to thousands of requests per second." }
+{ "FactID": "15", "FactText": "More data is stored in the cloud today than in all personal computers combined." }
+{ "FactID": "16", "FactText": "AWS has a global network of data centers called Regions and Availability Zones." }
+{ "FactID": "17", "FactText": "The first AWS service was Amazon S3, which stands for Simple Storage Service." }
+{ "FactID": "18", "FactText": "AWS offers over 175 services, including computing, storage, databases, and AI." }
+{ "FactID": "19", "FactText": "The AWS Free Tier allows users to try many services for free for 12 months." }
+{ "FactID": "20", "FactText": "AWS has a service called Snowball that helps transfer large amounts of data physically." }
