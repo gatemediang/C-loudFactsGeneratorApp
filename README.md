@@ -1,5 +1,7 @@
 # ☁️ Cloud Fun Facts Generator
 
+![Cloud Fun Facts Generator](funfacts.gif)
+
 A **full-stack serverless application** built on AWS that delivers random, AI-enhanced cloud computing facts through a beautiful web interface. This project demonstrates real-world cloud architecture by connecting multiple AWS services into a cohesive, production-ready application.
 
 ---
